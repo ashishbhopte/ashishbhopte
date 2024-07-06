@@ -1,14 +1,17 @@
-## Hi there 👋...greeting for the day!
+## 
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Ashish </a></h1>
+Ashish Bhopte!</a></h1>
 <h3 align="center">A passionate Django-web developer, Python developer from India </h3>
 
 
-I am Ashish Bhopte,working as django developer In Tata Consultancy Services. I have good technical knowledge on **Python, DJango, web developer**:
+I am Ashish Bhopte,working as django developer In Tata Consultancy Services. I have good technical knowledge on **Python3, DJango, web developer,PostgresSQL,HTML5,CSS3,GIT**:
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=Django
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML5
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3
 ![Git](https://img.shields.io/badge/-Git-1572B6?style=flat-square&logo=Git)
 ![GitHUB](https://img.shields.io/badge/-GitHub-563D7C?style=flat-square&logo=Github)
 ![SQL](https://img.shields.io/badge/-SQL-pink?style=flat-square&logo=MySQL)
