@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there 👋...greeting for the day!
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Ashish </a></h1>
+<h3 align="center">A passionate Django-web developer, Python developer from India </h3>
 
-<!--
-**ashishbhopte/ashishbhopte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Ashish Bhopte,working as django developer In Tata Consultancy Services. I have good technical knowledge on **Python, DJango, web developer**:
+## ⚡ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-1572B6?style=flat-square&logo=Git)
+![GitHUB](https://img.shields.io/badge/-GitHub-563D7C?style=flat-square&logo=Github)
+![SQL](https://img.shields.io/badge/-SQL-pink?style=flat-square&logo=MySQL)
+![Linux](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=Linux&logoColor=red)
+
+## 💻 IDEs and Tools
+![Pycharm](https://img.shields.io/badge/-Pycharm-black?style=flat-circle&logo=Pycharm)
+![Visual Studio](https://img.shields.io/badge/-visual%20studio-blue?style=flat-circle&logo=visual%20studio)
+![Jira](https://img.shields.io/badge/-Jira-red?style=flat-circle&logo=Jira)
+![confluence](https://img.shields.io/badge/-Confluence-darkblue?style=flat-circle&logo=confluence)
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantchimmad" alt="vedantchimmad" /></a> </p>
+
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=ashishbhopte&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&rank_icon=github) | <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishbhopte&theme=tokyonight&hide_border=false" /> |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishbhopte&label=Profile%20views&color=0e75b6&style=flat" alt="ashishbhopte" /> </p>
+
+## Contact me:
+<div>
+
+[![Linkedin Badge](https://img.shields.io/badge/-ashishbhopte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashishbhopte50/)](https://www.linkedin.com/in/ashishbhopte50/)
+[![Gmail Badge](https://img.shields.io/badge/-ashishbhopte50@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashishbhopte50@gmail.com)](mailto:ashishbhopte50@gmail.com)
+</div>
