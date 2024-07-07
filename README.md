@@ -4,7 +4,7 @@ Ashish Bhopte!</a></h1>
 <h3 align="center">A passionate Django-web developer, Python developer from India </h3>
 
 
-I am Ashish Bhopte,working as django developer in Tata Consultancy Services. I have good technical knowledge on **Python3, DJango, web-development,PostgresSQL,AWS-web services,HTML5,CSS3,GIT,ORM**:
+I am Ashish Bhopte,working as a django developer in Tata Consultancy Services. I have good technical knowledge on **Python3, DJango, web-development,PostgresSQL,AWS-web services,HTML5,CSS3,GIT,ORM**:
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
