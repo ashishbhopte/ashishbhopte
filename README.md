@@ -16,7 +16,7 @@ I am Ashish Bhopte,working as a django developer in Tata Consultancy Services. I
 ![GitHUB](https://img.shields.io/badge/-GitHub-563D7C?style=flat-square&logo=Github)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-pink?style=flat-square&logo=PostgreSQL)
 ![Linux](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=Linux&logoColor=red)
-![RestFull API](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=Restfull API=red).
+![RestFull API](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=RestfullAPI=red).
 
 ## 💻 IDEs and Tools
 ![Pycharm](https://img.shields.io/badge/-Pycharm-black?style=flat-circle&logo=Pycharm)
